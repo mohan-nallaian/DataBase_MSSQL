@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Database\Database\bin\Debug\Database.exe.config
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Database\Database\bin\Debug\Database.exe
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Database\Database\bin\Debug\Database.pdb
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Database\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Database\Database\obj\Debug\Database.Form1.resources
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Database\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Database\Database\obj\Debug\Database.exe
+C:\Users\Admin\Desktop\WorkSpace\C Sharp\Database\Database\obj\Debug\Database.pdb
